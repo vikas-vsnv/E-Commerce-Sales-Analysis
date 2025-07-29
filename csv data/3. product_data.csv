@@ -1,0 +1,244 @@
+product_id,name,category,price,total_stock
+PROD0001,Business Smartphone,Electronics,43794.06,243
+PROD0002,Box Smartphone,Electronics,12534.7,407
+PROD0003,Want Smartphone,Electronics,41323.93,294
+PROD0004,More Smartphone,Electronics,38754.19,394
+PROD0005,Probably Smartphone,Electronics,9443.01,266
+PROD0006,Others Laptop,Electronics,42463.77,203
+PROD0007,Well Laptop,Electronics,17276.69,240
+PROD0008,Imagine Laptop,Electronics,18059.99,192
+PROD0009,Before Laptop,Electronics,17417.58,179
+PROD0010,News Laptop,Electronics,25495.26,295
+PROD0011,Fly Tablet,Electronics,16256.3,206
+PROD0012,Of Tablet,Electronics,43852.39,194
+PROD0013,Day Tablet,Electronics,1321.06,499
+PROD0014,Determine Tablet,Electronics,21367.31,206
+PROD0015,Concern Tablet,Electronics,13441.93,266
+PROD0016,Moment Smartwatch,Electronics,23899.97,95
+PROD0017,Perform Smartwatch,Electronics,32926.34,168
+PROD0018,Democrat Smartwatch,Electronics,43752.14,271
+PROD0019,Whose Smartwatch,Electronics,23701.44,124
+PROD0020,Answer Smartwatch,Electronics,2343.61,37
+PROD0021,Million Bluetooth Speaker,Electronics,8870.03,190
+PROD0022,Number Bluetooth Speaker,Electronics,13133.56,338
+PROD0023,Customer Bluetooth Speaker,Electronics,13324.46,444
+PROD0024,Animal Bluetooth Speaker,Electronics,12541.37,156
+PROD0025,Apply Bluetooth Speaker,Electronics,22291.72,270
+PROD0026,Leave Air Conditioner,Home Appliances,17521.19,309
+PROD0027,Institution Air Conditioner,Home Appliances,13348.71,330
+PROD0028,Heart Air Conditioner,Home Appliances,48791.25,156
+PROD0029,Teach Air Conditioner,Home Appliances,14462.61,13
+PROD0030,Teach Air Conditioner,Home Appliances,14403.57,70
+PROD0031,Strategy Refrigerator,Home Appliances,34502.75,169
+PROD0032,Data Refrigerator,Home Appliances,18656.69,178
+PROD0033,Discussion Refrigerator,Home Appliances,33351.29,207
+PROD0034,Hold Refrigerator,Home Appliances,10679.21,110
+PROD0035,Improve Refrigerator,Home Appliances,24170.89,228
+PROD0036,Recognize Microwave Oven,Home Appliances,30207.55,181
+PROD0037,May Microwave Oven,Home Appliances,32473.12,446
+PROD0038,Child Microwave Oven,Home Appliances,3377.02,63
+PROD0039,Coach Microwave Oven,Home Appliances,29567.85,341
+PROD0040,Film Microwave Oven,Home Appliances,6119.24,283
+PROD0041,Direction Washing Machine,Home Appliances,32282.41,448
+PROD0042,None Washing Machine,Home Appliances,43746.82,345
+PROD0043,Trade Washing Machine,Home Appliances,30880.34,176
+PROD0044,Design Washing Machine,Home Appliances,28236.01,93
+PROD0045,Prevent Washing Machine,Home Appliances,8990.4,278
+PROD0046,Mr Ceiling Fan,Home Appliances,46966.44,350
+PROD0047,Yeah Ceiling Fan,Home Appliances,9628.53,462
+PROD0048,Only Ceiling Fan,Home Appliances,46559.29,87
+PROD0049,Particular Ceiling Fan,Home Appliances,14511.67,325
+PROD0050,Compare Ceiling Fan,Home Appliances,33419.89,245
+PROD0051,Evening Office Chair,Furniture,42372.57,465
+PROD0052,Arm Office Chair,Furniture,23154.7,54
+PROD0053,Whom Office Chair,Furniture,4140.93,12
+PROD0054,Own Office Chair,Furniture,43051.61,375
+PROD0055,Camera Office Chair,Furniture,34707.83,236
+PROD0056,Can Dining Table,Furniture,34887.1,245
+PROD0057,Bit Dining Table,Furniture,14796.15,428
+PROD0058,Size Dining Table,Furniture,9764.47,36
+PROD0059,International Dining Table,Furniture,41508.1,289
+PROD0060,Administration Dining Table,Furniture,31223.64,11
+PROD0061,Prepare Sofa Set,Furniture,43316.81,276
+PROD0062,Boy Sofa Set,Furniture,16658.85,89
+PROD0063,Usually Sofa Set,Furniture,21980.62,142
+PROD0064,Financial Sofa Set,Furniture,11245.24,222
+PROD0065,Half Sofa Set,Furniture,28714.75,148
+PROD0066,Whether Bookshelf,Furniture,23569.41,319
+PROD0067,Teach Bookshelf,Furniture,10354.15,335
+PROD0068,Despite Bookshelf,Furniture,15357.75,255
+PROD0069,Actually Bookshelf,Furniture,19582.74,495
+PROD0070,When Bookshelf,Furniture,25887.29,308
+PROD0071,President Bed,Furniture,10690.5,268
+PROD0072,Particularly Bed,Furniture,20953.8,210
+PROD0073,Interest Bed,Furniture,31629.48,56
+PROD0074,Hard Bed,Furniture,35060.49,279
+PROD0075,Everyone Bed,Furniture,33298.59,422
+PROD0076,Dark T-Shirt,Clothing,23024.36,167
+PROD0077,Between T-Shirt,Clothing,48382.32,171
+PROD0078,Several T-Shirt,Clothing,26222.94,38
+PROD0079,Local T-Shirt,Clothing,27029.38,106
+PROD0080,From T-Shirt,Clothing,4156.59,326
+PROD0081,East Jeans,Clothing,20771.55,172
+PROD0082,Scientist Jeans,Clothing,8211.94,44
+PROD0083,Amount Jeans,Clothing,45268.88,238
+PROD0084,Great Jeans,Clothing,41877.66,386
+PROD0085,Provide Jeans,Clothing,1910.4,413
+PROD0086,Mission Jacket,Clothing,1482.13,174
+PROD0087,Mind Jacket,Clothing,9766.41,43
+PROD0088,Idea Jacket,Clothing,6794.82,224
+PROD0089,Play Jacket,Clothing,1089.9,173
+PROD0090,Ok Jacket,Clothing,34875.95,260
+PROD0091,Hot Kurta,Clothing,15029.67,81
+PROD0092,Write Kurta,Clothing,45343.41,419
+PROD0093,Alone Kurta,Clothing,26623.07,485
+PROD0094,Time Kurta,Clothing,15169.45,182
+PROD0095,Shake Kurta,Clothing,31096.45,285
+PROD0096,Read Saree,Clothing,38149.63,492
+PROD0097,Anything Saree,Clothing,22147.07,303
+PROD0098,Rise Saree,Clothing,16117.73,299
+PROD0099,Air Saree,Clothing,43561.31,58
+PROD0100,Magazine Saree,Clothing,32055.14,222
+PROD0101,Defense Sneakers,Footwear,25840.93,126
+PROD0102,Heavy Sneakers,Footwear,1833.68,275
+PROD0103,Skin Sneakers,Footwear,12164.4,453
+PROD0104,Until Sneakers,Footwear,10564.26,410
+PROD0105,State Sneakers,Footwear,26058.8,363
+PROD0106,Present Sandals,Footwear,12164.29,307
+PROD0107,Agent Sandals,Footwear,45945.57,65
+PROD0108,Ago Sandals,Footwear,8635.36,130
+PROD0109,Marriage Sandals,Footwear,38269.68,143
+PROD0110,Floor Sandals,Footwear,16456.33,377
+PROD0111,Argue Boots,Footwear,8704.16,100
+PROD0112,State Boots,Footwear,40564.24,364
+PROD0113,Business Boots,Footwear,25864.97,393
+PROD0114,Public Boots,Footwear,9138.12,187
+PROD0115,Close Boots,Footwear,16030.81,265
+PROD0116,Drive Loafers,Footwear,3970.28,62
+PROD0117,Language Loafers,Footwear,38316.24,101
+PROD0118,If Loafers,Footwear,40566.94,248
+PROD0119,Use Loafers,Footwear,13572.56,116
+PROD0120,Husband Loafers,Footwear,16713.84,476
+PROD0121,Through Heels,Footwear,39186.93,315
+PROD0122,Fish Heels,Footwear,6365.45,430
+PROD0123,Today Heels,Footwear,20641.56,78
+PROD0124,Something Heels,Footwear,24841.19,38
+PROD0125,Worry Heels,Footwear,7777.54,61
+PROD0126,Party Lipstick,Beauty,23287.13,334
+PROD0127,Clear Lipstick,Beauty,45148.51,27
+PROD0128,Look Lipstick,Beauty,6572.59,390
+PROD0129,Grow Lipstick,Beauty,3805.94,204
+PROD0130,Than Lipstick,Beauty,243.64,333
+PROD0131,Something Face Cream,Beauty,42672.69,208
+PROD0132,Will Face Cream,Beauty,11697.56,161
+PROD0133,New Face Cream,Beauty,13762.33,116
+PROD0134,Consider Face Cream,Beauty,14063.77,222
+PROD0135,Any Face Cream,Beauty,202.78,342
+PROD0136,Sometimes Perfume,Beauty,49988.07,463
+PROD0137,Job Perfume,Beauty,37390.78,116
+PROD0138,Eight Perfume,Beauty,12357.35,197
+PROD0139,If Perfume,Beauty,19964.16,47
+PROD0140,Kid Perfume,Beauty,35546.47,336
+PROD0141,Base Foundation,Beauty,9043.49,422
+PROD0142,Model Foundation,Beauty,27409.41,492
+PROD0143,Ball Foundation,Beauty,24816.45,425
+PROD0144,Movement Foundation,Beauty,8635.66,87
+PROD0145,Line Foundation,Beauty,4822.43,379
+PROD0146,Travel Eyeliner,Beauty,36130.65,55
+PROD0147,Must Eyeliner,Beauty,13522.3,337
+PROD0148,Own Eyeliner,Beauty,47833.07,126
+PROD0149,Everybody Eyeliner,Beauty,47360.72,447
+PROD0150,Identify Eyeliner,Beauty,43637.18,253
+PROD0151,Half Action Figure,Toys,6622.25,111
+PROD0152,Congress Action Figure,Toys,33460.63,482
+PROD0153,Parent Action Figure,Toys,25416.11,32
+PROD0154,Unit Action Figure,Toys,13235.58,391
+PROD0155,Perhaps Action Figure,Toys,39734.78,169
+PROD0156,Again Lego Set,Toys,26845.61,96
+PROD0157,Finish Lego Set,Toys,19484.15,334
+PROD0158,True Lego Set,Toys,44192.82,82
+PROD0159,Strong Lego Set,Toys,41115.13,135
+PROD0160,Development Lego Set,Toys,16756.7,345
+PROD0161,Language Teddy Bear,Toys,23582.08,459
+PROD0162,Security Teddy Bear,Toys,8506.02,28
+PROD0163,Story Teddy Bear,Toys,44589.95,484
+PROD0164,Level Teddy Bear,Toys,36241.36,194
+PROD0165,Only Teddy Bear,Toys,40158.05,469
+PROD0166,She Puzzle Game,Toys,11934.12,401
+PROD0167,Century Puzzle Game,Toys,20339.75,49
+PROD0168,Art Puzzle Game,Toys,48063.8,125
+PROD0169,Individual Puzzle Game,Toys,30679.1,12
+PROD0170,Because Puzzle Game,Toys,13390.47,345
+PROD0171,Little Board Game,Toys,26588.26,319
+PROD0172,Threat Board Game,Toys,6846.71,196
+PROD0173,Future Board Game,Toys,42297.54,94
+PROD0174,Well Board Game,Toys,9896.43,36
+PROD0175,Interesting Board Game,Toys,25378.4,28
+PROD0176,Radio Cricket Bat,Sports,37625.28,224
+PROD0177,Owner Cricket Bat,Sports,28164.2,472
+PROD0178,Newspaper Cricket Bat,Sports,49012.44,350
+PROD0179,Majority Cricket Bat,Sports,11350.73,181
+PROD0180,Need Cricket Bat,Sports,18362.56,193
+PROD0181,Kind Football,Sports,20152.07,270
+PROD0182,Treat Football,Sports,18594.67,294
+PROD0183,Southern Football,Sports,3259,404
+PROD0184,Western Football,Sports,7776.64,143
+PROD0185,Several Football,Sports,44159.7,323
+PROD0186,Decision Tennis Racket,Sports,28235.11,234
+PROD0187,Institution Tennis Racket,Sports,14924.7,414
+PROD0188,Less Tennis Racket,Sports,19538.47,296
+PROD0189,Animal Tennis Racket,Sports,2212.92,457
+PROD0190,Look Tennis Racket,Sports,17327.28,194
+PROD0191,Citizen Yoga Mat,Sports,24467.72,116
+PROD0192,Foreign Yoga Mat,Sports,41298.19,440
+PROD0193,Buy Yoga Mat,Sports,10201.7,278
+PROD0194,Customer Yoga Mat,Sports,264.57,329
+PROD0195,Range Yoga Mat,Sports,48682.29,74
+PROD0196,Thought Skipping Rope,Sports,20362.2,208
+PROD0197,Current Skipping Rope,Sports,148.36,354
+PROD0198,Fish Skipping Rope,Sports,14518.13,165
+PROD0199,Recognize Skipping Rope,Sports,12668.24,462
+PROD0200,Establish Skipping Rope,Sports,45460.26,23
+PROD0201,Range Notebook,Stationery,5219.24,423
+PROD0202,Gun Notebook,Stationery,15800.33,180
+PROD0203,Deep Notebook,Stationery,20677.48,439
+PROD0204,Tend Notebook,Stationery,19644.75,410
+PROD0205,Manager Notebook,Stationery,16229.74,314
+PROD0206,Itself Pen Set,Stationery,38289.92,334
+PROD0207,Around Pen Set,Stationery,48323.46,29
+PROD0208,Marriage Pen Set,Stationery,32311.74,175
+PROD0209,Market Pen Set,Stationery,26791.88,213
+PROD0210,Girl Pen Set,Stationery,43389.08,264
+PROD0211,Front Marker,Stationery,43280.78,393
+PROD0212,Story Marker,Stationery,35616.4,78
+PROD0213,Language Marker,Stationery,8273.87,96
+PROD0214,Western Marker,Stationery,14544.71,31
+PROD0215,Church Marker,Stationery,12677.67,19
+PROD0216,Consider Stapler,Stationery,3156.8,132
+PROD0217,Treat Stapler,Stationery,34541.01,303
+PROD0218,Price Stapler,Stationery,5341.42,29
+PROD0219,Cost Stapler,Stationery,41348.14,446
+PROD0220,Detail Stapler,Stationery,28228.83,439
+PROD0221,Maybe Highlighter,Stationery,42305.59,388
+PROD0222,Hit Highlighter,Stationery,42402.42,205
+PROD0223,Range Highlighter,Stationery,37964.13,184
+PROD0224,Congress Highlighter,Stationery,29627.59,400
+PROD0225,You Highlighter,Stationery,33615.61,421
+PROD0226,Light Fiction Book,Books,4636.44,164
+PROD0227,May Fiction Book,Books,49104.03,85
+PROD0228,Positive Fiction Book,Books,41684.62,438
+PROD0229,Light Fiction Book,Books,7783.91,213
+PROD0230,Song Fiction Book,Books,5529.66,427
+PROD0231,Sometimes Biography,Books,7306.26,90
+PROD0232,Student Biography,Books,27733.26,357
+PROD0233,Stop Biography,Books,42826.83,399
+PROD0234,Forward Biography,Books,6118.65,11
+PROD0235,Network Biography,Books,35817.03,77
+PROD0236,Name Self-help Book,Books,31837.18,486
+PROD0237,Manager Self-help Book,Books,16561.27,79
+PROD0238,According Self-help Book,Books,7367.57,387
+PROD0239,Lead Self-help Book,Books,29771.56,97
+PROD0240,Father Self-help Book,Books,14433.46,21
+PROD0241,Star Comics,Books,7518.31,363
+PROD0242,Foreign Comics,Books,6661.9,369
+PROD0243,Player Comics,Books,2880.71,23
