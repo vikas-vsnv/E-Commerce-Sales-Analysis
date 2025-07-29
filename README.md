@@ -7,12 +7,15 @@ This repository contains the complete project for an E-commerce Sales Analysis d
 The interactive dashboard provides a multi-faceted view of the sales data. It is composed of three main reports: a general dashboard, a product-focused report, and a customer-focused report.
 
 ### Main Dashboard
+
 ![image alt](https://github.com/vikas-vsnv/E-Commerce-Sales-Analysis/blob/main/Dashboard%20image/Screenshot%202025-07-28%20173136.png)
 
 ### Product Report
+
 ![image alt](https://github.com/vikas-vsnv/E-Commerce-Sales-Analysis/blob/main/Dashboard%20image/Screenshot%202025-07-28%20173154.png)
 
 ### Customer Report
+
 ![image alt](https://github.com/vikas-vsnv/E-Commerce-Sales-Analysis/blob/main/Dashboard%20image/Screenshot%202025-07-28%20173212.png)
 
 ---
